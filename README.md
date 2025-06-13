@@ -1,0 +1,2 @@
+# SpringBootJpaEntityColumnAnnotation
+SpringBootJpaEntityColumnAnnotation
